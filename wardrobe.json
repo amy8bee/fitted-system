@@ -1,0 +1,105 @@
+{
+    "tops": [
+        {
+            "name": "Black Hoodie",
+            "weather": ["cold", "mild"],
+            "style": "casual"
+        },
+        {
+            "name": "White T-Shirt",
+            "weather": ["warm", "mild"],
+            "style": "casual"
+        },
+        {
+            "name": "Blue T-Shirt",
+            "weather": ["warm", "mild"],
+            "style": "casual"
+        },
+        {
+            "name": "Polo Shirt",
+            "weather": ["warm", "mild"],
+            "style": "work"
+        },
+        {
+            "name": "Dress Shirt",
+            "weather": ["mild", "cold"],
+            "style": "formal"
+        },
+        {
+            "name": "Workout Tank",
+            "weather": ["warm"],
+            "style": "gym"
+        },
+        {
+            "name": "Sweater",
+            "weather": ["cold"],
+            "style": "casual"
+        },
+        {
+            "name": "Blazer",
+            "weather": ["mild", "cold"],
+            "style": "formal"
+        }
+    ],
+
+    "bottoms": [
+        {
+            "name": "Blue Jeans",
+            "weather": ["cold", "mild"],
+            "style": "casual"
+        },
+        {
+            "name": "Cargo Pants",
+            "weather": ["warm", "mild"],
+            "style": "casual"
+        },
+        {
+            "name": "Khakis",
+            "weather": ["warm", "mild"],
+            "style": "work"
+        },
+        {
+            "name": "Dress Pants",
+            "weather": ["mild", "cold"],
+            "style": "formal"
+        },
+        {
+            "name": "Athletic Shorts",
+            "weather": ["warm"],
+            "style": "gym"
+        },
+        {
+            "name": "Black Jeans",
+            "weather": ["cold", "mild"],
+            "style": "casual"
+        }
+    ],
+
+    "shoes": [
+        {
+            "name": "White Sneakers",
+            "weather": ["warm", "mild"],
+            "style": "casual"
+        },
+        {
+            "name": "Running Shoes",
+            "weather": ["warm", "mild"],
+            "style": "gym"
+        },
+        {
+            "name": "Boots",
+            "weather": ["cold"],
+            "style": "casual"
+        },
+        {
+            "name": "Dress Shoes",
+            "weather": ["mild", "cold"],
+            "style": "formal"
+        },
+        {
+            "name": "Loafers",
+            "weather": ["warm", "mild"],
+            "style": "work"
+        }
+    ]
+}
